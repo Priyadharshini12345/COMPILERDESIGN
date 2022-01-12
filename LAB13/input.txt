@@ -1,0 +1,13 @@
+int num=2;
+                                                                                                                                                                        
+switch(num){
+                                                                                                                                                                        
+        case 1:                                                                                                                                                         
+                ;                                                                                                                                                       
+                break;                                                                                                                                                  
+        case 2:                                                                                                                                                         
+                ;                                                                                                                                                       
+                break;                                                                                                                                                  
+        default:                                                                                                                                                        
+                ;                                                                                                                                                       
+}

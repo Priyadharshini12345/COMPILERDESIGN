@@ -1,1 +1,5 @@
 
+LAB 13 QUESTIONS:
+
+1. Write a lex and yacc program to validate switch case construct by writing grammar rules.
+2. Print the parse tree(grammar rules) during validation of switch case construct.

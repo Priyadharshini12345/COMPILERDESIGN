@@ -1,1 +1,4 @@
+LAB 12 QUESTIONS:
 
+1. Write a lex and yacc program to validate variable declaration constructs by writing grammar rules.
+2. Write a lex and yacc program to validate I/O statments by writing grammar rules.

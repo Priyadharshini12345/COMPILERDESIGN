@@ -1,1 +1,6 @@
 
+LAB 14 QUESTIONS:
+
+1. Write a lex and yacc program to validate the function declaration construct by writing grammar rules.
+2. Write a lex and yacc program to validate the function definition construct by writing grammar rules.
+3. Write a lex and yacc program to validate the function call by writing grammar rules.

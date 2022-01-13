@@ -1,1 +1,5 @@
 
+LAB05 QUESTIONS:
+
+1. Write a lex program to construct a symbol table for given variable declaration constructs.
+2. Write a lex program to construct a symbol table for a given function definition and main function in which the function is called.
